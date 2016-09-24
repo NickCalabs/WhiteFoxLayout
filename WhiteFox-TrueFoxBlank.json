@@ -90,8 +90,8 @@
                     "label": "4"
                 },
                 "1": {
-                    "key": "F4",
-                    "label": "F4"
+                    "key": "CONS:MUTE",
+                    "label": "MUTE"
                 }
             }
         },
@@ -107,8 +107,8 @@
                     "label": "5"
                 },
                 "1": {
-                    "key": "F5",
-                    "label": "F5"
+                    "key": "CONS:VOLUMEDOWN",
+                    "label": "VOL-"
                 }
             }
         },
@@ -124,8 +124,8 @@
                     "label": "6"
                 },
                 "1": {
-                    "key": "F6",
-                    "label": "F6"
+                    "key": "CONS:VOLUMEUP",
+                    "label": "VOL+"
                 }
             }
         },
